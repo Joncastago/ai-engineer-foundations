@@ -1,0 +1,7 @@
+date,product,price,quantity,region
+2025-01-01,Coffee,3.5,10,North
+2025-01-01,Donut,1.2,25,North
+2025-01-02,Coffee,3.5,8,South
+2025-01-02,Donut,1.2,,South
+2025-01-03,Coffee,3.5,12,North
+2025-01-03,Donut,1.2,30,West
